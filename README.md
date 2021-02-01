@@ -16,3 +16,5 @@ If you find the code useful please cite the paper using the following BibTex ent
 <br>year={2020},
 <br>publisher={Begel House Inc.}
 <br>}
+
+To report any bugs, please use the email: Subhayan.De@colorado.edu
