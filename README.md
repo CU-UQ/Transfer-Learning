@@ -1,4 +1,4 @@
-# Transfer-Learning
+# Transfer Learning
 
 This is an implementation of the bi-fidelity weighted learning for neural networks from the following paper:  
 <br>De, S., Britton, J., Reynolds, M., Skinner, R., Jansen, K., & Doostan, A. (2020).
